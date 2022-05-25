@@ -1,0 +1,40 @@
+{
+    "something": {},
+    "evenement": {
+        "titre": "even 1",
+        "theme": "INFORMA",
+        "date": "08/08/08",
+        "lieu": {
+            "-place": "100",
+            "#text": "tunis"
+        },
+        "budget": {
+            "montant": "5000",
+            "devise": "TND"
+        },
+        "activite": [
+            {
+                "titre": "act1",
+                "duree": "30"
+            },
+            {
+                "titre": "act2",
+                "duree": "10"
+            }
+        ],
+        "participant": {
+            "invite": {
+                "num": {},
+                "nom": {},
+                "nometa": {},
+                "langue": "anglais"
+            },
+            "intervenant": {
+                "num": "123",
+                "nom": "abd",
+                "nometa": "tunisie",
+                "langue": "anglais"
+            }
+        }
+    }
+}

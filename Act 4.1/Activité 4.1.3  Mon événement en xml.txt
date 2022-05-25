@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE something>
+<evenement>
+<titre>even 1</titre>
+<theme>INFORMA</theme>
+<date>08/08/08</date>
+<lieu place="100">tunis</lieu>
+
+<budget>
+<montant>5000</montant>
+<devise>TND</devise>
+</budget>
+
+<activite>
+<titre>act1</titre>
+<duree>30</duree>
+</activite>
+
+<activite>
+<titre>act2</titre>
+<duree>10</duree>
+</activite>
+
+<participant>
+<invite>
+<num></num>
+<nom></nom>
+<nometa></nometa>
+<langue>anglais</langue>
+</invite>
+<intervenant>
+<num>123</num>
+<nom>abd</nom>
+<nometa>tunisie</nometa>
+<langue>anglais</langue>
+</intervenant>
+
+</participant>
+
+</evenement>
