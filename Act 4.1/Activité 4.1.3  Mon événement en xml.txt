@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE something>
 <evenement>
-<titre>even 1</titre>
-<theme>INFORMA</theme>
-<date>08/08/08</date>
+<titre>evenement</titre>
+<theme>TALAN ACADEMY</theme>
+<date>26/05/2022</date>
 <lieu place="100">tunis</lieu>
 
 <budget>
@@ -13,27 +13,31 @@
 
 <activite>
 <titre>act1</titre>
-<duree>30</duree>
+<duree>30min</duree>
 </activite>
 
 <activite>
 <titre>act2</titre>
-<duree>10</duree>
+<duree>10min</duree>
 </activite>
 
 <participant>
 <invite>
-<num></num>
-<nom></nom>
+<num>05</num>
+<nom>ahmed</nom>
 <nometa></nometa>
 <langue>anglais</langue>
 </invite>
 <intervenant>
 <num>123</num>
-<nom>abd</nom>
+<nom>aziz</nom>
 <nometa>tunisie</nometa>
-<langue>anglais</langue>
+<langue>Français</langue>
 </intervenant>
+<num>125</num>
+<nom>fares</nom>
+<nometa>tunisie</nometa>
+<langue>Français</langue>
 
 </participant>
 
