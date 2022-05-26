@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE something>
-<evenement>
-<titre>evenement</titre>
-<theme>TALAN ACADEMY</theme>
-<date>26/05/2022</date>
-<lieu place="100">tunis</lieu>
+<Event>
 
-<budget>
-<montant>5000</montant>
-<devise>TND</devise>
-</budget>
+    <Titre lang="en">Tomorrowland</Titre>
+    <Thème>
+      <informatique></informatique>
+      <politique></politique>
+      <culturel></culturel>
+      <sportif></sportif>
+      <Musical></Musical>
+     </Thème>
+   <Lieu>Tunis</Lieu>
+    <Date>26/05/2022</Date>
+    <Budget>DNT EUR</Budget>
 
-<activite>
-<titre>act1</titre>
-<duree>30min</duree>
-</activite>
+  <activités>
 
-<activite>
-<titre>act2</titre>
-<duree>10min</duree>
-</activite>
+       <titre></titre>
+       <durée></durée>
+  </activités>
+  <LesParticipants>
 
-<participant>
-<invite>
-<num>05</num>
-<nom>ahmed</nom>
-<nometa></nometa>
-<langue>anglais</langue>
-</invite>
-<intervenant>
-<num>123</num>
-<nom>aziz</nom>
-<nometa>tunisie</nometa>
-<langue>Français</langue>
-</intervenant>
-<num>125</num>
-<nom>fares</nom>
-<nometa>tunisie</nometa>
-<langue>Français</langue>
+       <invités>
+<nom></nom>
+<identifiant></identifiant>
+<établissement></établissement>
 
-</participant>
+       </invités>
+       <intervenants>
+         <nom></nom>
+         <identifiant></identifiant>
+         <établissement></établissement>
 
-</evenement>
+<LangueIntervention></LangueIntervention>
+
+
+
+       </intervenants>
+  </LesParticipants>
+
+</Event>
